@@ -1,9 +1,9 @@
 # ebook-application
 Bookbliss its an eBook library application where users can buy digital books. There is an broad collection of eBooks are available. Users can browse, buy, view PDF eBooks from your own firebase server. Users can manage reading experience form zoom-In or zoom-out, highlighting text, bookmark, etc. such as feature provided.
 
-Abstract of the Project:
+---------------------------------------------------------------| Abstract of the Project |-------------------------------------------------------------------
   Today’s mobile phone users are often extensively dependent upon applications to
-accomplish their daily needs. Mobile applications help the users in the following ways:
+accomplish their daily needs. Mobile applications help the users in the following ways
 accessing email, navigation, chatting, reading eBooks etc. All these purposes are fulfilled
 only when there is a framework, which provides a complete mobile platform to achieve
 these tasks. Android is one of the mobile application-based platforms for providing a wide
@@ -21,3 +21,5 @@ compatible with a wide range of devices. The application will be developed using
 technologies and programming languages such as Java, and XML.
 Overall, the eBook reader application will be a valuable tool for avid readers who prefer
 reading books digitally. The application will provide a user-friendly interface,
+
+-------------------------------------------------------------| Screen of the Application |------------------------------------------------------------------

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "727629097021",
+    "firebase_url": "https://ebookapp-c9fed-default-rtdb.firebaseio.com",
+    "project_id": "ebookapp-c9fed",
+    "storage_bucket": "ebookapp-c9fed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727629097021:android:9ea973784e9429bb0da254",
+        "android_client_info": {
+          "package_name": "com.pkg.bookbliss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727629097021-6rhh5b10lhha3m0hjs09ud4sr24hld4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3pLpgia9Jy5H0bPei0beO5lVkEhJjykk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727629097021-0t32ss7j82nud7o6cqasuolaqv9sarji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

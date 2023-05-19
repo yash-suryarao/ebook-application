@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bookbliss</string>
+    <string name="new_user_signup">New User? <b>Signup</b></string>
+    <string name="email_placeholder">Email</string>
+    <string name="user_dashboard">User Dashboard</string>
+    <string name="abc_example_com">abc@example.com</string>
+    <string name="hint_search">Search</string>
+    <string name="copyright_bookbliss">Copyright © <b>2023 Bookbliss</b></string>
+    <string name="add_new_book">Add New Book</string>
+    <string name="book_title">Book Title</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

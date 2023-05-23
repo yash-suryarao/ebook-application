@@ -71,9 +71,9 @@ How can i run this application?
   * Add firebase SDK.
   
 * **Step 4 - How to get SHA-1 Key?**
- * Click on **Grable** which is on the right side of verticle bar.
- * Go to **Task**.
- * Double click on **signingReport**.
- * Copy the **SHA-1** key.
+  * Click on **Grable** which is on the right side of verticle bar.
+  * Go to **Task**.
+  * Double click on **signingReport**.
+  * Copy the **SHA-1** key.
  
 * **Step 5 - **

@@ -1,7 +1,7 @@
 # ebook-application
 
 <div align="center">
-<img width="800" height="340" alt="bookbliss-logo" src="https://github.com/yash-suryarao/ebook-application/assets/87851119/8a4d7c35-e429-486a-a493-abdc6aa32bed">
+<img width="500" height="300" alt="bookbliss-logo" src="https://github.com/yash-suryarao/ebook-application/assets/87851119/8a4d7c35-e429-486a-a493-abdc6aa32bed">
 </div>
 
 Bookbliss its an eBook library application where users can buy digital books. There is an broad collection of eBooks are available. Users can browse, buy, view PDF eBooks from your own firebase server. Users can manage reading experience form zoom-In or zoom-out, highlighting text, bookmark, etc. such as feature provided.
@@ -28,7 +28,7 @@ Overall, the eBook reader application will be a valuable tool for avid readers w
 reading books digitally. The application will provide a user-friendly interface,
 
 <div align="center">
-<img width="600" height="600" alt="bookbliss-logo" src="https://github.com/yash-suryarao/ebook-application/assets/87851119/7351e035-5533-45ef-8fc6-ddcd84ca4fcf">
+<img width="400" height="400" alt="bookbliss-logo" src="https://github.com/yash-suryarao/ebook-application/assets/87851119/7351e035-5533-45ef-8fc6-ddcd84ca4fcf">
 </div>
 
 ## Feature:
